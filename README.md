@@ -17,7 +17,7 @@ List of React Europes talks with description, videos and slides
     - Better native support for react native animations and simpler declarative APIs
     - [slides](https://speakerdeck.com/kmagiera/declarative-future-of-gestures-and-animations-in-react-native)
     - Released [React native gesture handler 1.0](https://github.com/kmagiera/react-native-gesture-handler)
-    - Just published [React native reanimated](react-native-reanimated)
+    - Just published [React native reanimated](https://github.com/kmagiera/react-native-reanimated)
     
 5. [Peggy Rayzis, On Apollo](https://www.youtube.com/watch?v=fCXYA3lZTbo&index=3&list=PLCC436JpVnK3xH_ArpIjdkYDGwWNkVa73)
     - Past Apollo with HOC, current Apollo with render props, Future Apollo with suspense
@@ -75,7 +75,7 @@ List of React Europes talks with description, videos and slides
 
 19. [Greg Bergé, SVGR or how a simple problem became a 2K stars library]
     - Learn how you can release a succesful library to help others solve the same problems as you faced
-    - [github repo] (https://github.com/smooth-code/svgr)
+    - [github repo](https://github.com/smooth-code/svgr)
     
 20. [Jared Forsyth, Type-safe React Native with ReasonML]
     - What is ReasonML and why it is a better approach than Flow or Typescript to make better JavaScript.
@@ -84,10 +84,10 @@ List of React Europes talks with description, videos and slides
 21. Lightning Talks highlights
      - [Funny code and how to write it](https://funcode.charliejackson.com/#/) MUST SEE :laughing:
      - [React Data Fetching](https://slides.com/charles-mangwa/ddf-re2018#/14)
-     - [Smart monitoring](https://medium.com/@boyney123/an-out-the-box-tool-to-monitor-your-web-application-performance-using-docker-9bda70056b90)
-     - [Storybook Screenshot testing](https://medium.com/bleeding-edge/screenshot-testing-with-react-and-storybook-19ab7e49ec92)
-     - Dice is using React for their menu UIs in Battlefield 1: https://github.com/mobxjs/mobx/issues/681#comment-375481599 (cant find video or slides yet)
-     - Bruce Lawson on stylable [https://speakerdeck.com/brucel/mr-potato-bruce]
-     - Gatsby, Blazing fast site generator [https://drive.google.com/file/d/1Zw-apX8HPnnWgL1hOENquDUeTnKkNlD4/view]
+     - [An out the box tool to monitor your web application performance using Docker](https://medium.com/@boyney123/an-out-the-box-tool-to-monitor-your-web-application-performance-using-docker-9bda70056b90)
+     - [Screenshot testing with React and Storybook](https://medium.com/bleeding-edge/screenshot-testing-with-react-and-storybook-19ab7e49ec92)
+     - [Dice is using React for their menu UIs in Battlefield 1](https://github.com/mobxjs/mobx/issues/681#comment-375481599) but cant find video or slides yet
+     - [Bruce Lawson on stylable](https://speakerdeck.com/brucel/mr-potato-bruce)
+     - [Gatsby, Blazing fast site generator](https://drive.google.com/file/d/1Zw-apX8HPnnWgL1hOENquDUeTnKkNlD4/view)
      
 Day 2 Missing videos will probably be added to [React Europe Youtube channel](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A/videos) later
