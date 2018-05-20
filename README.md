@@ -46,3 +46,40 @@ List of React Europes talks with description, videos and slides
      - Why choosing to use and write universal components impacts everyone from product to design
      - [slides](https://t.co/wztgkA9dD4)
      
+11. [Cristiano Calcagno, ReasonReact and local state](https://www.youtube.com/watch?v=qJnP-Vatp3M)
+     - The case for ReasonML, how it plays well with React and enables amazing and fun Components Composition
+     
+12. [Eric Vicenti, Full Stack React Navigation](https://www.youtube.com/watch?v=GzbravzRrBM)
+     - Universal navigation for React Native and React Web, demo heavy
+     - [slides and demo](https://github.com/ericvicenti/universe)
+     
+13. [Ives van Hoorne, A Year of codesandbox](https://www.youtube.com/watch?v=qURPenhndYA)
+     - Wonderful and insipiring journey of how he built and released CodeSandbox while studying
+     - [slides](https://slides.com/ivesvanhoorne/react-europe#/)
+     
+14. [Lee Byron, Immutable Application Architecture]
+    - How ImmutableJS and GraphQL can help you better and scalable Applications
+
+15. [Sven Sauleau, WebAssembly becoming the biggest platform]
+    - What is Web Assembly and why is it a game changer that most language will be able to compile to native web
+
+16. [Devin Abbott, Beyond React]
+    - Write React components and compile them to JSON to import them everywhere like in your design tools
+    - [Lona, A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts](https://github.com/airbnb/lona)
+
+17. [Sunil Pai, Stop writing code](https://www.youtube.com/watch?v=WYWVGQKnz5M)
+    - Why Babel Macros and Kentcdodds are awesone
+    
+18. [Evan Bacon, Using lit APIs to make dope games with Expo]
+    - Why Expo is so cool to use and helps you develop apps quickly
+
+
+20. Lightning Talks highlights
+     - [React Data Fetching](https://slides.com/charles-mangwa/ddf-re2018#/14)
+     - [Smart monitoring](https://medium.com/@boyney123/an-out-the-box-tool-to-monitor-your-web-application-performance-using-docker-9bda70056b90)
+     - [Storybook Screenshot testing](https://medium.com/bleeding-edge/screenshot-testing-with-react-and-storybook-19ab7e49ec92)
+     - Dice is using React for their menu UIs in Battlefield 1: https://github.com/mobxjs/mobx/issues/681#comment-375481599 (cant find video or slides yet)
+     - Bruce Lawson on stylable [https://speakerdeck.com/brucel/mr-potato-bruce]
+     - Gatsby, Blazing fast site generator [https://drive.google.com/file/d/1Zw-apX8HPnnWgL1hOENquDUeTnKkNlD4/view]
+     
+Day 2 Missing videos will probably be added to [React Europe Youtube channel](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A/videos) later
