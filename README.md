@@ -82,12 +82,12 @@ List of React Europes talks with description, videos and slides
     - [slides](https://jaredforsyth.com/type-safe-react-native/#/)
 
 21. Lightning Talks highlights
-     - [Funny code and how to write it](https://funcode.charliejackson.com/#/) MUST SEE :laughing:
-     - [React Data Fetching](https://slides.com/charles-mangwa/ddf-re2018#/14)
-     - [An out the box tool to monitor your web application performance using Docker](https://medium.com/@boyney123/an-out-the-box-tool-to-monitor-your-web-application-performance-using-docker-9bda70056b90)
-     - [Screenshot testing with React and Storybook](https://medium.com/bleeding-edge/screenshot-testing-with-react-and-storybook-19ab7e49ec92)
-     - [Dice is using React for their menu UIs in Battlefield 1](https://github.com/mobxjs/mobx/issues/681#comment-375481599) but cant find video or slides yet
-     - [Bruce Lawson on stylable](https://speakerdeck.com/brucel/mr-potato-bruce)
-     - [Gatsby, Blazing fast site generator](https://drive.google.com/file/d/1Zw-apX8HPnnWgL1hOENquDUeTnKkNlD4/view)
+     1. [Funny code and how to write it](https://funcode.charliejackson.com/#/) MUST SEE :laughing:
+     2. [React Data Fetching](https://slides.com/charles-mangwa/ddf-re2018#/14)
+     3. [An out the box tool to monitor your web application performance using Docker](https://medium.com/@boyney123/an-out-the-box-tool-to-monitor-your-web-application-performance-using-docker-9bda70056b90)
+     4. [Screenshot testing with React and Storybook](https://medium.com/bleeding-edge/screenshot-testing-with-react-and-storybook-19ab7e49ec92)
+     5. [Dice is using React for their menu UIs in Battlefield 1](https://github.com/mobxjs/mobx/issues/681#comment-375481599) but cant find video or slides yet
+     6. [Bruce Lawson on stylable](https://speakerdeck.com/brucel/mr-potato-bruce)
+     7. [Gatsby, Blazing fast site generator](https://drive.google.com/file/d/1Zw-apX8HPnnWgL1hOENquDUeTnKkNlD4/view)
      
 Day 2 Missing videos will probably be added to [React Europe Youtube channel](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A/videos) later
