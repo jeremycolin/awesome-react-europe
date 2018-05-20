@@ -73,8 +73,16 @@ List of React Europes talks with description, videos and slides
 18. [Evan Bacon, Using lit APIs to make dope games with Expo]
     - Why Expo is so cool to use and helps you develop apps quickly
 
+19. [Greg Bergé, SVGR or how a simple problem became a 2K stars library]
+    - Learn how you can release a succesful library to help others solve the same problems as you faced
+    - [github repo] (https://github.com/smooth-code/svgr)
+    
+20. [Jared Forsyth, Type-safe React Native with ReasonML]
+    - What is ReasonML and why it is a better approach than Flow or Typescript to make better JavaScript.
+    - [slides](https://jaredforsyth.com/type-safe-react-native/#/)
 
-20. Lightning Talks highlights
+21. Lightning Talks highlights
+     - MUST SEE :laughing: [Funny code and how to write it](https://funcode.charliejackson.com/#/)
      - [React Data Fetching](https://slides.com/charles-mangwa/ddf-re2018#/14)
      - [Smart monitoring](https://medium.com/@boyney123/an-out-the-box-tool-to-monitor-your-web-application-performance-using-docker-9bda70056b90)
      - [Storybook Screenshot testing](https://medium.com/bleeding-edge/screenshot-testing-with-react-and-storybook-19ab7e49ec92)
