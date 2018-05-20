@@ -63,7 +63,7 @@ List of React Europes talks with description, videos and slides
 15. [Sven Sauleau, WebAssembly becoming the biggest platform]
     - What is Web Assembly and why is it a game changer that most language will be able to compile to native web
 
-16. [Devin Abbott, Beyond React]
+16. [Devin Abbott, Beyond React](https://www.youtube.com/watch?v=HVwLOcllTfI)
     - Write React components and compile them to JSON to import them everywhere like in your design tools
     - [Lona, A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts](https://github.com/airbnb/lona)
 
