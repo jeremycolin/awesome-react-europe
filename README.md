@@ -1,5 +1,5 @@
 # awesome-react-europe
-List of React Europes talks with description, videos and slides
+List of React Europe talks with description, videos and slides
 
 1. [Ken Wheeler Keynote](https://www.youtube.com/watch?v=QFk6YwMz8nc&index=7&list=PLCC436JpVnK3xH_ArpIjdkYDGwWNkVa73)
    - React Fiber, new Context API, Suspense
