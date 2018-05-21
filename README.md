@@ -57,7 +57,7 @@ List of React Europe talks with description, videos and slides
      - Wonderful and insipiring journey of how he built and released CodeSandbox while studying
      - [slides](https://slides.com/ivesvanhoorne/react-europe#/)
      
-14. [Lee Byron, Immutable Application Architecture]
+14. [Lee Byron, Immutable Application Architecture](https://www.youtube.com/watch?list=PLCC436JpVnK1X7atG6EIz467Evs4TMX_5&v=oTcDmnAXZ4E)
     - How ImmutableJS and GraphQL can help you better and scalable Applications
 
 15. [Sven Sauleau, WebAssembly becoming the biggest platform]
@@ -68,7 +68,7 @@ List of React Europe talks with description, videos and slides
     - [Lona, A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts](https://github.com/airbnb/lona)
 
 17. [Sunil Pai, Stop writing code](https://www.youtube.com/watch?v=WYWVGQKnz5M)
-    - Why Babel Macros and Kentcdodds are awesone
+    - Why Babel Macros and Kentcdodds are awesome
     
 18. [Evan Bacon, Using lit APIs to make dope games with Expo](https://www.youtube.com/watch?v=oHBGhHlVOI0)
     - Why Expo is so cool to use and helps you develop apps quickly
