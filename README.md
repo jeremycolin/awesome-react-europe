@@ -70,7 +70,7 @@ List of React Europes talks with description, videos and slides
 17. [Sunil Pai, Stop writing code](https://www.youtube.com/watch?v=WYWVGQKnz5M)
     - Why Babel Macros and Kentcdodds are awesone
     
-18. [Evan Bacon, Using lit APIs to make dope games with Expo]
+18. [Evan Bacon, Using lit APIs to make dope games with Expo](https://www.youtube.com/watch?v=oHBGhHlVOI0)
     - Why Expo is so cool to use and helps you develop apps quickly
 
 19. [Greg Bergé, SVGR or how a simple problem became a 2K stars library]
