@@ -73,7 +73,7 @@ List of React Europe talks with description, videos and slides
 18. [Evan Bacon, Using lit APIs to make dope games with Expo](https://www.youtube.com/watch?v=oHBGhHlVOI0)
     - Why Expo is so cool to use and helps you develop apps quickly
 
-19. [Greg Bergé, SVGR or how a simple problem became a 2K stars library]
+19. [Greg Bergé, SVGR or how a simple problem became a 2K stars library](https://www.youtube.com/watch?list=PLCC436JpVnK1X7atG6EIz467Evs4TMX_5&v=geKCzi7ZPkA)
     - Learn how you can release a succesful library to help others solve the same problems as you faced
     - [github repo](https://github.com/smooth-code/svgr)
     
