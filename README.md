@@ -77,7 +77,7 @@ List of React Europe talks with description, videos and slides
     - Learn how you can release a succesful library to help others solve the same problems as you faced
     - [github repo](https://github.com/smooth-code/svgr)
     
-20. [Jared Forsyth, Type-safe React Native with ReasonML]
+20. [Jared Forsyth, Type-safe React Native with ReasonML](https://www.youtube.com/watch?v=mXvgZpgRJ6Y)
     - What is ReasonML and why it is a better approach than Flow or Typescript to make better JavaScript.
     - [slides](https://jaredforsyth.com/type-safe-react-native/#/)
 
