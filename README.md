@@ -89,5 +89,7 @@ List of React Europe talks with description, videos and slides
      5. [Dice is using React for their menu UIs in Battlefield 1](https://github.com/mobxjs/mobx/issues/681#comment-375481599) but cant find video or slides yet
      6. [Bruce Lawson on stylable](https://speakerdeck.com/brucel/mr-potato-bruce)
      7. [Gatsby, Blazing fast site generator](https://drive.google.com/file/d/1Zw-apX8HPnnWgL1hOENquDUeTnKkNlD4/view)
-     
+
+22. [QA Panel](https://twitter.com/ReactEurope/status/998509743206486016)
+
 Day 2 Missing videos will probably be added to [React Europe Youtube channel](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A/videos) later
